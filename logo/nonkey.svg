@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="286px" height="286px" viewBox="0 0 286 286" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M286 0L286 0L286 286L0 286L0 0L286 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="nonkey" clip-path="url(#clip_1)">
+    <path d="M286 0L286 0L286 286L0 286L0 0L286 0Z" id="nonkey" fill="none" stroke="none" />
+    <g id="nonkey" fill-opacity="1" transform="translate(15.000366 15)">
+      <path d="M256 0L256 0L256 256L0 256L0 0L256 0Z" id="nonkey" fill="none" stroke="none" />
+      <path d="M-15 -15L271 -15L271 271L-15 271L-15 -15Z" id="background" fill="#111A1E" fill-rule="evenodd" stroke="none" />
+      <g id="symbol" fill-opacity="1" transform="translate(41 65.94452)">
+        <path d="M175.6 0L175.6 0L175.6 125.055L0 125.055L0 0L175.6 0Z" id="symbol" fill="none" stroke="none" />
+        <g id="symbol">
+          <path d="M85.6 64.3518L152.1 64.3518" id="option-highlight" fill="none" fill-rule="evenodd" stroke="#00FF99" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M70 10.0555L134.6 10.0555" id="option-2" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M70 0L112.126 125.056" id="mask" fill="none" fill-rule="evenodd" stroke="#111A1E" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" />
+          <path d="M0 10.0555L48.9664 10.0555L85.3467 118.055L175.6 118.055" id="option-1" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

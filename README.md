@@ -1,2 +1,1 @@
-# branding
-Branding material and other related assets.
+This repo contains branding materials and other assets. Source files are in `.sketch` format, which can be edited with [Sketch](https://www.sketch.com) (macOS -- SaaS), or [Lunacy](https://icons8.com/lunacy) (Windows, macOS, Linux -- freeware).
